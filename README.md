@@ -11,6 +11,7 @@ You use this code at your own risk entirely. We take no responsibility for anyth
 * You need to be very familiar with self-hosted Wordpress installations.
 * You'll need Wordpress with [Canvas](http://www.woothemes.com/products/canvas/), [Sensei](http://www.woothemes.com/products/sensei/) and the [MathJax-Latex plugin](http://wordpress.org/plugins/mathjax-latex/) installed.
 * Put the `canvas-sensei-mathjax-child-theme` folder in your Wordpress installation's `themes` folder.
+* Activate the `canvas-sensei-mathjax-child-theme` in Wordpress admin.
 * Read the background below, especially the bit about using pipes `|`.
 
 ## Background and tips
