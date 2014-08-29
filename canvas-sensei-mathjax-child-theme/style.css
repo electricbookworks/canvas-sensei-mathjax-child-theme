@@ -1,0 +1,20 @@
+/*
+Theme Name: Training Teachers Canvas Child Theme
+Theme URI: http://www.yoursite.com/
+Version: 1.0
+Description: Custom Theme based on Canvas
+Author: Your Name
+Author URI: http://www.yoursite.com
+Template: canvas
+
+*/
+
+/* Default styles */
+
+@import "../canvas/css/reset.css";
+@import "../canvas/style.css";
+/*-------------------------------------------------------------------------------------------*/
+
+div.copyright {
+    background-color : red !important;
+}
